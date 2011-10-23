@@ -1,0 +1,5 @@
+﻿  venom.cpp
+  exploit.cpp
+c:\users\utilisateur\desktop\projects\c++\venom\venom\exploit.cpp(26): warning C4101: 'cpid' : unreferenced local variable
+  Generating Code...
+  venom.vcxproj -> C:\Users\Utilisateur\Desktop\Projects\C++\venom\Debug\venom.exe
